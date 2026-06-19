@@ -111,5 +111,29 @@ into the wiki?" Wait for approval before filing.
 - Find concepts missing their own page
 - Report everything, make no changes until I approve
 
+## Category Evolution Rules
+
+### During normal sessions
+- Follow current namespaces and types exactly
+- Never create new categories mid-session
+- If a bullet fits poorly, file it in the closest 
+  match and log a suggestion in wiki/_index/suggestions.md
+- Format: ## [date] | bullet text | current fit | suggestion
+
+### During monthly audit only
+- Review all suggestions with the user
+- Propose additions, deletions, splits, or merges
+- Wait for explicit approval on each change
+- After approval, update this CLAUDE.md to reflect 
+  the new system
+- Clear suggestions.md after audit is complete
+
+### Protection rules
+- Never delete a namespace that has existing wiki pages
+  without migrating those pages first
+- Never rename a type without updating all existing 
+  wiki page frontmatter
+- Always show migration plan before executing changes
+
 ## End of Every Session
 Remind me to commit and push to GitHub.
