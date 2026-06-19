@@ -27,6 +27,8 @@ wiki/      → your domain entirely, you create and
 - wiki/creative/  → fiction, creative ideas, writing
 - wiki/personal/  → habits, reflections, life lessons,
                     trips, self improvement, feelings
+- wiki/health/    → physical health, fitness, nutrition,
+                    medical notes
 - Cross-link freely across ALL namespaces when 
   genuine connections exist
 

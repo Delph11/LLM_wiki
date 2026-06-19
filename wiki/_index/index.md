@@ -1,6 +1,8 @@
 # LLM Wiki Index
 *Last updated: 2026-06-19*
 
+## Health
+
 ## Academia
 
 ## Coding
