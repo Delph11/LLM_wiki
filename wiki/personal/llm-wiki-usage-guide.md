@@ -1,3 +1,16 @@
+---
+namespace: personal
+type: [understanding]
+date-created: 2026-06-19
+source-file: meta
+---
+
+# LLM Wiki Usage Guide
+
+How to use this wiki system with Claude — prompts, workflows, and rhythm.
+
+---
+
 ## 1. Yes, you have to prompt Claude Code after every upload — but read Q5
 
 There's no automatic trigger. Claude Code doesn't watch your folder in the background. But Q5 solves this — keep reading.

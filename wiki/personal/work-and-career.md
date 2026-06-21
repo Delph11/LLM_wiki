@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, observation]
+date-created: 2026-04-19
+source-file: raw/Thoughts.md, raw/Thoughts 2.md
+---
+
 # Work and Career Reflections
 
 Thinking about work, identity, career strategy, and what actually matters long-term.

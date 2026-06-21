@@ -44,3 +44,7 @@ His conclusion: *"What managers often fear as chaos can instead build loyalty."*
 ## Conclusion
 
 The story is a reminder that management decisions are rarely just operational — they are relational signals. Before refusing a request, the better question is: *what problem am I actually trying to prevent, and does it already exist?*
+
+---
+
+*Connected pages: [[work-and-career]] · [[networking-and-social-habits]] · [[non-linear-career-pivot-dentist-to-apple]]*

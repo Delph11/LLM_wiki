@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, observation, task]
+date-created: 2026-04-19
+source-file: raw/Thoughts.md, raw/Thoughts 2.md
+---
+
 # Learning and Work Habits
 
 Patterns in how I learn and work — what's helping, what needs fixing.
@@ -70,4 +77,4 @@ Piyush is right: I overthink and overcomplicate. While I was worrying about docu
 I become especially tired because I focus on work AND simultaneously worry about self-improvement, habits, goals, and everything else. The Silent Monk video frames this clearly: this internal noise quietly drains energy throughout the day. The fix is not to stop caring about self-improvement — it's to give it its designated time (journalling, Sunday review per [[master-regulators]]) and then genuinely let it go during work hours. Quietly bring the brain back to the task at hand. This also helps with anxiety and tension.
 
 ---
-*Connected pages: [[identity-and-impulse-control]] · [[master-regulators]] · [[lust-control-system]] · [[work-and-career]] · [[sequencing-and-systems]]*
+*Connected pages: [[identity-and-impulse-control]] · [[master-regulators]] · [[lust-control-system]] · [[work-and-career]] · [[sequencing-and-systems]] · [[physical-health-habits]]*

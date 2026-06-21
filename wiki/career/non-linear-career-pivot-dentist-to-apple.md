@@ -49,3 +49,7 @@ Each step moved him closer to top-tier AI work — but none was a shortcut. The 
 ## Conclusion
 
 Gandhi's story resists the "overnight pivot" narrative. What looks like a dramatic career change was in fact a methodical decade of bridging moves, each one building on the last. The dental degree was not wasted — it shaped his graduate specialisation and his entry into health-data roles. The lesson is not that anyone can become an Apple ML engineer; it is that a deliberate, patient sequence of credentialing steps can move someone from an entirely unrelated starting point to a top-tier destination. The prerequisite is willingness to begin before the path is fully visible.
+
+---
+
+*Connected pages: [[work-and-career]] · [[sequencing-and-systems]] · [[near-term-goals]] · [[trust-and-flexibility-in-management]]*

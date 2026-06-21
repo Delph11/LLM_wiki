@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, observation]
+date-created: 2026-04-19
+source-file: raw/Confidence, talking, body language.md, raw/Thoughts.md
+---
+
 # Confidence and Body Language
 
 Cataloguing the physical and verbal signs of low confidence — and tracking progress toward fixing them.

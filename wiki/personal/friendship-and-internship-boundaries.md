@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight]
+date-created: 2026-04-25
+source-file: raw/Avoid Rlle mistake i Internship with friendship.md
+---
+
 # Friendship and Internship Boundaries
 
 How to navigate new friendships during the internship without people-pleasing, lying, or getting pulled into others' indiscipline.

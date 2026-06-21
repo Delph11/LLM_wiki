@@ -1,3 +1,5 @@
 # LLM Wiki Log
 
 ## [2026-06-19] restructure | Merged WorkBrain and PrivateBrain into single unified vault. Added dump ingestion system.
+
+## [2026-06-21] audit | Monthly wiki audit. Changes: (1) Created wiki/health/physical-health-habits.md — first page in empty health namespace, synthesised from health content in learning-and-work-habits.md and raw/Posture.md. (2) Added YAML frontmatter (namespace, type, date-created, source-file) to all 12 personal pages that were missing it. (3) Added cross-links to 3 isolated pages: career/non-linear-career-pivot-dentist-to-apple.md, career/trust-and-flexibility-in-management.md, personal/llm-wiki-usage-guide.md. (4) Added title header and summary line to llm-wiki-usage-guide.md. (5) Updated wiki/_index/index.md with health page entry and updated date. (6) Created wiki/_index/suggestions.md. No pages deleted. No namespaces changed. 6 unprocessed raw files flagged for user-approved ingestion: raw/2026-04-20.md, raw/Atomic Habit Thoughts.md, raw/Life confusion & path Ahead.md, raw/Posture.md, raw/career/Skills for Job market.md, raw/why only 2% succeed in building habits and achieving goals?.md.

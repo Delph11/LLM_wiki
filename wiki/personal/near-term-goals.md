@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [task]
+date-created: 2026-04-19
+source-file: raw/Thoughts.md, raw/Thoughts 2.md
+---
+
 # Near-Term Goals
 
 Concrete things I need to make happen — tracked here, not left in my head.

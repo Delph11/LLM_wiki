@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, understanding]
+date-created: 2026-04-19
+source-file: raw/Lust Control.md
+---
+
 # Lust Control System
 
 A concrete 6-step system for getting through an impulse peak without acting on it.

@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, understanding]
+date-created: 2026-04-19
+source-file: raw/Thoughts.md, raw/Thoughts 2.md
+---
+
 # Sequencing and Systems
 
 How to structure time and decisions so goals get done without relying on motivation.

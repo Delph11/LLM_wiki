@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, observation]
+date-created: 2026-04-19
+source-file: raw/Thoughts.md, raw/Thoughts 2.md
+---
+
 # Networking and Social Habits
 
 The small consistent behaviours that build and maintain relationships — and the failure modes to watch.

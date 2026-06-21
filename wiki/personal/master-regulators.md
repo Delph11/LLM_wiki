@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, understanding]
+date-created: 2026-04-19
+source-file: raw/Master Regulators.md
+---
+
 # Master Regulators
 
 The two operating systems that govern all behaviour. Keep this front and centre.

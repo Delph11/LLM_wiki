@@ -1,3 +1,10 @@
+---
+namespace: personal
+type: [insight, observation]
+date-created: 2026-04-19
+source-file: raw/Trip Insights.md, raw/Thoughts.md
+---
+
 # Trip Insights
 
 Practical and mindset observations from solo and group travel.
