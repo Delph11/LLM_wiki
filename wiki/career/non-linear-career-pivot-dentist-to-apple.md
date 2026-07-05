@@ -1,9 +1,8 @@
 ---
-tags: [career, pivot, ai, machine-learning, tech, non-linear, apple]
-date_created: 2026-04-30
-source: raw/career/Dentist to Apple career switch.md
 namespace: career
-type: unified
+type: [insight, understanding]
+date-created: 2026-04-30
+source-file: raw/career/Dentist to Apple career switch.md
 ---
 
 > You can start over, even if it feels impossible.

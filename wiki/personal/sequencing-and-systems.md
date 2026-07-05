@@ -19,13 +19,13 @@ Instead of trying to do everything in the evening in an unstructured way, treat 
 If shifted to IS, that role is primarily system maintenance. Question: does it strengthen the CV for a Google SDE path? Needs analysis: what does Google actually look for, and does IS work contribute to that or detract from it? File a deeper analysis here once researched.
 
 ## Systems Over Motivation (point 24)
-Office frustration and lack of motivation become smaller and analytical when reduced to a system. Design the day so the right behaviour is automatic. Motivation is a fickle mistress — don't rely on her. See [[work-and-career]] for the full reflection.
+See [[work-and-career]] for the full reflection — design the day so the right behaviour is automatic rather than relying on motivation.
 
 ---
 *Added from raw/Thoughts.md — 2026-04-19*
 
 ## You Cannot Balance Everything (Thoughts pt 23)
-Day 2 of Kitchi tour: went everywhere, spent little time anywhere — satisfied nowhere. This happens in discipline too. Trying to do everything in parallel means doing nothing properly. The system has to make choices about what gets protected time and what gets cut. See [[near-term-goals]] — the Google SDE goal is the answer to what gets protected.
+Day 2 of Kitchi tour: went everywhere, spent little time anywhere — satisfied nowhere. This happens in discipline too. Trying to do everything in parallel means doing nothing properly. The system has to make choices about what gets protected time and what gets cut. See [[near-term-goals]] — the Google SDE goal is the answer to what gets protected. See also [[trip-insights]] for other lessons from the same trip.
 
 ## Entertainment Without Time-Boxing (Thoughts pt 51)
 Want to watch anime, read books, surf YouTube — but don't want to time-balance entertainment, because that defeats the purpose. The right structure: entertainment is the reward after the protected work blocks are done, not a scheduled slot to be optimised. Don't bring the project-management mindset into rest time.
@@ -46,4 +46,4 @@ A clear sequence is emerging: impulse control first (already started) → confid
 When the SDE prep phase begins (likely 1 year from now), more time will be needed for it — some current self-improvement tracks will have to pause or slow down. This is fine: by that point many of these habits will be automatic, not effortful. Plan for the trade-off rather than being surprised by it. See [[near-term-goals]] for the Google SDE goal and timeline.
 
 ---
-*Connected pages: [[near-term-goals]] · [[work-and-career]] · [[identity-and-impulse-control]] · [[master-regulators]] · [[networking-and-social-habits]]*
+*Connected pages: [[near-term-goals]] · [[work-and-career]] · [[identity-and-impulse-control]] · [[master-regulators]] · [[networking-and-social-habits]] · [[trip-insights]]*

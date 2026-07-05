@@ -32,4 +32,4 @@ Control involuntary body behaviour in social situations — including around unf
 
 ---
 
-*Connected pages: [[identity-and-impulse-control]] · [[confidence-and-body-language]] · [[near-term-goals]]*
+*Connected pages: [[identity-and-impulse-control]] · [[confidence-and-body-language]] · [[near-term-goals]] · [[sequencing-and-systems]]*

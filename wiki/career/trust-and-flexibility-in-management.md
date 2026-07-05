@@ -1,9 +1,8 @@
 ---
-tags: [career, management, trust, flexibility, retention, wfh]
-date_created: 2026-04-25
-source_file: raw/career/Always understand the problems of person in front..md
 namespace: career
-type: unified
+type: [insight, observation]
+date-created: 2026-04-25
+source-file: raw/career/Always understand the problems of person in front..md
 ---
 
 > Denying a reasonable request doesn't protect the team — it signals distrust, and distrust costs you your best people.

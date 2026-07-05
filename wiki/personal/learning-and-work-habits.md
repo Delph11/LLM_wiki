@@ -19,8 +19,7 @@ I don't struggle with code before going to AI — I spot a doubt and go straight
 I focus on finishing each module as a goal rather than genuinely understanding the topic. Speed feels productive but risks shallow knowledge. Connects to [[work-and-career]] — upskilling requires depth, not just throughput.
 
 ## Physical Health at Desk (point 8)
-Current risks: neck pain, knee damage from folding legs while seated, back problems from long hours.
-Action: Extend the 20:20:20 eye rule into a full body rule — regular posture breaks, leg uncrossing, back checks. This needs a system, not willpower.
+See [[physical-health-habits]] for the full posture, eye-strain, and desk-break system.
 
 ## Saying Yes on Impulse — Social Commitments (point 9)
 Said yes to a friend outing on impulse. Couldn't say no to boss for extra work. Need to balance friendship, networking, and work without defaulting to yes reflexively. See [[identity-and-impulse-control]] for the broader impulse control theme.
@@ -38,7 +37,7 @@ One week in — feeling like I'm copying the instructor rather than creating. Pa
 After each answer Claude gave, I wasn't struggling with it — just passively reading. That's why I couldn't explain to MD. Active reading means: stop after each point, ask yourself if you could explain it, and if not, re-engage until you can. Passive consumption feels like learning but doesn't stick.
 
 ## Eating and Medicine Habit (Thoughts pt 3)
-Need to control eating and then taking medicine to make up for it. The medicine is treating the symptom, not the cause. Stop the eating that requires the medicine. See [[lust-control-system]] — the same impulse control framework applies here.
+See [[physical-health-habits]] for the full note — treating the symptom (medicine) instead of the cause (eating) applies the same impulse-control framework as [[lust-control-system]].
 
 ## Internet Addiction (Thoughts pt 4)
 Need to control internet addiction as a core habit. See the negotiation strategy in [[identity-and-impulse-control]] (pt 17) and the no-net-before-sleep rule (pt 18).
@@ -62,10 +61,10 @@ However small the task — do it now. Postponement becomes infinite. Small defer
 Doing well on: 6am wakeup, net control, balancing CS study with MBA. These are the current wins. Build on them. Next to tackle: bad eating habits, calling relatives (especially Dadu), and the full physical health routine (20:20:20, stand every 1 hour, etc.).
 
 ## Sleep Routine (Thoughts pt 62)
-Prioritise sleep over late-night work. Target: decompress by 10pm (anime counts), asleep by 11pm strict. The sleep routine includes: clean and prepare the bed beforehand — otherwise it itches at night. A clean bed is not optional.
+See [[physical-health-habits]] for the full sleep routine (decompress by 10pm, asleep by 11pm, bed prep).
 
 ## Chewing Properly (Thoughts pt 63)
-Practise proper chewing from now. Not doing so in your 20s leads to digestive problems in old age. Simple, free, and easy to forget.
+See [[physical-health-habits]] for the full note.
 
 ---
 *Added from raw/Thoughts 2.md — 2026-04-25*
