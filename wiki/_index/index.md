@@ -1,5 +1,5 @@
 # LLM Wiki Index
-*Last updated: 2026-07-05*
+*Last updated: 2026-07-19*
 
 ## Health
 - [physical-health-habits](../health/physical-health-habits.md) — Practical rules for desk posture, eating, sleep, chewing, and hydration

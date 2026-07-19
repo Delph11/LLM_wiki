@@ -64,4 +64,4 @@ On the Dwarka trip, eating was controlled for an extended sustained period — n
 
 ---
 
-*Connected pages: [[learning-and-work-habits]] · [[master-regulators]] · [[identity-and-impulse-control]]*
+*Connected pages: [[learning-and-work-habits]] · [[master-regulators]] · [[identity-and-impulse-control]] · [[trip-insights]]*

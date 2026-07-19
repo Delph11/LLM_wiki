@@ -25,11 +25,11 @@ Don't go impulsive mid-trip. The bus plan to Mandvi was set and working — and 
 When searching for a petrol pump on maps, don't scroll the list — zoom in on the map icons and find the closest one visually. Faster and more accurate.
 
 ## Hydration
-Always carry a water bottle in hand. Stay hydrated throughout the day. Stop the water intake before the night to avoid disrupted sleep. Simple rule, easy to forget.
+See [[physical-health-habits]] for the full hydration rule — same habit applies on the road as at the desk.
 
 ## Body Awareness in Public
 Control involuntary body behaviour in social situations — including around unfamiliar people in enclosed spaces. Part of the broader body awareness work in [[confidence-and-body-language]].
 
 ---
 
-*Connected pages: [[identity-and-impulse-control]] · [[confidence-and-body-language]] · [[near-term-goals]] · [[sequencing-and-systems]]*
+*Connected pages: [[identity-and-impulse-control]] · [[confidence-and-body-language]] · [[near-term-goals]] · [[sequencing-and-systems]] · [[physical-health-habits]]*
