@@ -43,7 +43,7 @@ See [[physical-health-habits]] for the full note — treating the symptom (medic
 Need to control internet addiction as a core habit. See the negotiation strategy in [[identity-and-impulse-control]] (pt 17) and the no-net-before-sleep rule (pt 18).
 
 ## Dwarka Trip Proof (Thoughts pt 9)
-I controlled eating on the Dwarka trip for an extended period. This is evidence that I can do it — not just for a day, but sustained. Reference this when the inner critic says "I can't control this." I did it before. I can do it again.
+See [[physical-health-habits]] for the full note — sustained eating discipline on the Dwarka trip, the proof to reference when the inner critic says "I can't control this."
 
 ## Daily Diary Not Started (Thoughts pt 11)
 Haven't started the daily diary yet — keep leaving it out of laziness. This is a foundational habit that feeds everything else. The barrier is low; the resistance is avoidance. Start tonight, not when the "right moment" comes.

@@ -94,7 +94,7 @@ Genuine question: if I use the 10-minute delay for impulse control, does that ap
 Seetesh said Sanket is bad → I treated Sanket badly. Omkar said Anish is bad → I treated Anish badly, then Omkar himself said Anish is good. I lost chances to connect with good people because I let others do my evaluating for me. In the office this has no room to recover. If the person becomes a boss — serious damage. Form my own assessments.
 
 ## Nervous Laugh in Front of Authority (Thoughts pt 64)
-When a senior or authority figure asks me a question, I sometimes laugh nervously. Do not do this. Turn serious immediately. The laugh reads as disrespect or as anxiety — neither is what I want to project.
+See [[confidence-and-body-language]] for the full note.
 
 ## High-Handedness with Kind People (Thoughts pt 65)
 With DPM, Prayas, and similar kind types — I don't take them seriously and give them a high-handed response. When they push back I get angry. This is exactly backwards. The kind ones are often the most reliable; the high-handed response damages the relationship for no good reason.

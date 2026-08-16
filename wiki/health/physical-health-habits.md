@@ -60,7 +60,7 @@ Carry a water bottle at all times. Stay hydrated throughout the day. Stop water 
 
 ## Evidence of What Works
 
-On the Dwarka trip, eating was controlled for an extended sustained period — not just a day. This is proof of what is possible. Reference this when the inner critic says "I can't control this." See [[learning-and-work-habits]] for the full habit context.
+On the Dwarka trip, eating was controlled for an extended sustained period — not just a day. This is proof of what is possible. Reference this when the inner critic says "I can't control this."
 
 ---
 

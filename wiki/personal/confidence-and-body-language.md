@@ -16,7 +16,7 @@ Source: raw/Confidence, talking, body language.md · raw/Thoughts.md (pts 22, 24
 - Scared expression, jittery movements — reads as anxious before I even speak
 - Look down while walking — communicates low status automatically
 - Body posture stiff, absent-minded quality — feel dumb even when I know the answer
-- Nervous laugh when authority figures ask questions — do not do this; turn serious immediately when a senior or authority asks something (Thoughts.md pt 64)
+- Nervous laugh when authority figures ask questions — do not do this; turn serious immediately. The laugh reads as disrespect or anxiety, neither of which I want to project (Thoughts.md pt 64)
 
 ## The Pattern — What Happens When I Speak
 - Overthink what to say, what others will think, whether I'm talking too much
