@@ -79,7 +79,7 @@ Don't show off what I'm doing — studying CS, preparing for Google. Be quiet ab
 Can't keep things in my stomach — today told the Arpita case and mentioned dad's portfolio without any good reason. This impulse talk reveals information that doesn't need to be shared and creates social and professional risk. Pause before sharing anything personal or sensitive.
 
 ## Pushover Behaviour (Thoughts pt 49)
-Just went to the sutta party because everyone was going. Go quiet and can't give a clear answer when with strangers or women I don't know. Both of these are pushover patterns. The underlying issue is the same: social pressure overrides my own preference. The fix starts at [[confidence-and-body-language]].
+Just went to the sutta party because everyone was going — pure social-pressure pushover. Same root pattern as "go quiet, can't give a clear answer" with strangers, catalogued in [[confidence-and-body-language]]. The underlying issue is the same either way: social pressure overrides my own preference.
 
 ## Stop Giving Explanations (Thoughts pt 50)
 Why did I give an explanation to the shopkeeper? "It's for my report." Stop giving explanations. Be confident. An explanation where none was asked for signals discomfort and invites scrutiny.
