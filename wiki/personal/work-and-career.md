@@ -52,7 +52,7 @@ Seetesh didn't do good work. I know this will happen in office too. The wrong re
 The main problem with RLLE: we didn't spend enough time building connection and trust with the villagers. Survey failed because the relationship wasn't there. The same dynamic applies at work. Relationship first, then the ask. Don't rush to transact before the trust is built.
 
 ## How to Be a Good Boss (Thoughts pt 60)
-From observing: what makes a boss one that employees like, respect, and are loyal to? This is worth building into a page as I gather more observations. Start logging examples when I see them.
+From observing: what makes a boss one that employees like, respect, and are loyal to? This is worth building into a page as I gather more observations. Start logging examples when I see them. [[trust-and-flexibility-in-management]] is a first concrete case study — a denied WFH request that cost a manager his best employee, and what changed once he started trusting reasonable requests.
 
 ---
-*Connected pages: [[identity-and-impulse-control]] · [[near-term-goals]] · [[networking-and-social-habits]] · [[sequencing-and-systems]] · [[confidence-and-body-language]]*
+*Connected pages: [[identity-and-impulse-control]] · [[near-term-goals]] · [[networking-and-social-habits]] · [[sequencing-and-systems]] · [[confidence-and-body-language]] · [[trust-and-flexibility-in-management]]*

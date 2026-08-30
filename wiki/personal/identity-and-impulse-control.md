@@ -52,7 +52,7 @@ This is the trifecta. Assertive: state what I need clearly. Less impulsive: don'
 Instead of full cold-turkey block, negotiate with the brain: "if I study without net for 1 hour, I get free internet time." This is more sustainable than full block, which creates rebound. The key is consistency.
 
 ## No Net Before Sleep — Replace, Don't Just Remove (Thoughts pt 18)
-No net for 1 hour before sleep, then sleep. But the directive is also: don't just remove it — replace it with a healthy habit. The clue is consistency. The replacement matters as much as the removal. See [[learning-and-work-habits]] for the full sleep routine.
+No net for 1 hour before sleep, then sleep. But the directive is also: don't just remove it — replace it with a healthy habit. The clue is consistency. The replacement matters as much as the removal. See [[physical-health-habits]] for the full sleep routine.
 
 ## Be the Decision-Maker (Thoughts pt 21)
 When someone asks me — where to stop, what to do, what I want — I need to give an answer, not bounce it back. The driver incident: he asked where to stop and I asked him instead. That's abdicating. Own the decision, even if it's small. See [[confidence-and-body-language]] for the broader pattern.
@@ -115,4 +115,4 @@ When Arpita said the environment felt different this time, I panicked about the 
 Don't criticise Bengalis, Kolkata, or any regional group — even casually, even agreeing with someone else who is. Others will use it to target you in future conversations. This extends the "don't criticise anyone" rule (Thoughts pt 31) to regional identity specifically.
 
 ---
-*Connected pages: [[master-regulators]] · [[lust-control-system]] · [[learning-and-work-habits]] · [[confidence-and-body-language]] · [[networking-and-social-habits]] · [[work-and-career]] · [[friendship-and-internship-boundaries]] · [[sequencing-and-systems]]*
+*Connected pages: [[master-regulators]] · [[lust-control-system]] · [[learning-and-work-habits]] · [[confidence-and-body-language]] · [[networking-and-social-habits]] · [[work-and-career]] · [[friendship-and-internship-boundaries]] · [[sequencing-and-systems]] · [[physical-health-habits]]*

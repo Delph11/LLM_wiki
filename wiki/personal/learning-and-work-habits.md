@@ -13,7 +13,7 @@ Source: raw/Thoughts 2.md (pts 1, 2, 8, 9, 18, 25, 28, 29, 32) · raw/Thoughts.m
 ---
 
 ## AI Dependency in Coding (point 1)
-I don't struggle with code before going to AI — I spot a doubt and go straight to AI. This is efficient but may be preventing me from building independent problem-solving muscle. See [[identity-and-impulse-control]] for the office-AI strategy angle.
+I don't struggle with code before going to AI — I spot a doubt and go straight to AI. This is efficient but may be preventing me from building independent problem-solving muscle. See [[work-and-career]] for the office-AI strategy angle.
 
 ## Completion Over Understanding (point 2)
 I focus on finishing each module as a goal rather than genuinely understanding the topic. Speed feels productive but risks shallow knowledge. Connects to [[work-and-career]] — upskilling requires depth, not just throughput.
