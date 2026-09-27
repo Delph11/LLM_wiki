@@ -9,6 +9,8 @@ source-file: meta
 
 How to use this wiki system with Claude — prompts, workflows, and rhythm.
 
+> **Note (2026-09-27 audit):** This guide predates the current system. "PrivateBrain" now means this single unified vault; wiki pages live in namespace folders (e.g. `wiki/personal/`), not flat paths like `wiki/self-doubt.md`; and Case A / Case B are now set with a frontmatter tag on the raw file — Case A = `type: loose`, Case B = `type: unified` (plus `type: chat-extract` for conversations). Daily Google Keep dumps go in `raw/dump/`. CLAUDE.md is the authoritative spec.
+
 ---
 
 ## 1. Yes, you have to prompt Claude Code after every upload — but read Q5

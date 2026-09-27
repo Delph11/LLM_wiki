@@ -55,4 +55,4 @@ The main problem with RLLE: we didn't spend enough time building connection and 
 From observing: what makes a boss one that employees like, respect, and are loyal to? This is worth building into a page as I gather more observations. Start logging examples when I see them. [[trust-and-flexibility-in-management]] is a first concrete case study — a denied WFH request that cost a manager his best employee, and what changed once he started trusting reasonable requests.
 
 ---
-*Connected pages: [[identity-and-impulse-control]] · [[near-term-goals]] · [[networking-and-social-habits]] · [[sequencing-and-systems]] · [[confidence-and-body-language]] · [[trust-and-flexibility-in-management]]*
+*Connected pages: [[identity-and-impulse-control]] · [[near-term-goals]] · [[networking-and-social-habits]] · [[sequencing-and-systems]] · [[confidence-and-body-language]] · [[trust-and-flexibility-in-management]] · [[non-linear-career-pivot-dentist-to-apple]] · [[learning-and-work-habits]]*

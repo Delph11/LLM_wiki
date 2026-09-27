@@ -8,7 +8,7 @@ source-file: raw/Confidence, talking, body language.md, raw/Thoughts.md
 # Confidence and Body Language
 
 Cataloguing the physical and verbal signs of low confidence — and tracking progress toward fixing them.
-Source: raw/Confidence, talking, body language.md · raw/Thoughts.md (pts 22, 24, 27, 28, 48)
+Source: raw/Confidence, talking, body language.md · raw/Thoughts.md (pts 22, 24, 27, 28, 48, 49, 64)
 
 ---
 
@@ -38,11 +38,11 @@ When case studies come up, my mind goes blank. I'm stuck to a rigid method: foll
 Basic presentation to MD sir: had a problem articulating thoughts but no fear inside. Calm and confident. That's real. Build on it — the internal state is improving even if the external expression hasn't caught up yet.
 
 ## What Happiness Actually Feels Like
-At the end of a disciplined, productive day — studying hard, staying on track — there's a specific feeling: looking back with a smile, the anime after, standing on the balcony feeling proud. That's the target state. It comes from discipline, not from waiting to feel good first. (Thoughts.md pt 24)
+At the end of a disciplined, productive day — studying hard, staying on track — there's a specific feeling: looking back with a smile, the anime after, standing on the balcony feeling proud. That's the target state. It comes from discipline, not from waiting to feel good first. (Thoughts.md pt 24) See also "The Romantic Feeling of Satisfaction" in [[identity-and-impulse-control]] — the same reward-follows-discipline idea.
 
 ## The Internal Identity Goal
 How to create the internal identity of a confident, non-clumsy person — not a joker, not jittery. This is the core project. It's not about performance. It's about building an internal self-image that the behaviour follows. See [[identity-and-impulse-control]] for the "unabashed identity" framework.
 
 ---
 
-*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[master-regulators]]*
+*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[master-regulators]] · [[networking-and-social-habits]] · [[trip-insights]]*

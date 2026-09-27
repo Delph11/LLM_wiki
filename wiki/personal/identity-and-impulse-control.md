@@ -15,8 +15,8 @@ Source: raw/Thoughts 2.md (pts 5, 11, 16, 17, 19, 27, 28, 30, 31) · raw/Thought
 ## Behaviour Around Seniors (point 5)
 Don't go by impulse when talking, laughing, or reacting around seniors. Be intentional. This is not about being fake — it's about choosing how to show up rather than defaulting to whatever the moment triggers.
 
-## Morning Impulse Control (point 11)
-Fear that returning to college and being alone will bring the old pattern back full force. The trigger is solitude — the brain interprets it as "safe." Need to get this under control now, proactively, not wait until the environment changes. See [[learning-and-work-habits]] for the habits angle.
+## Morning Impulse Control — Lust and Net Surfing (points 11, 18)
+Fear that returning to college and being alone will bring the old pattern back full force. The trigger is solitude — the brain reads "alone = no risk of getting caught or embarrassed" and treats it as "safe." Need to get this under control now, proactively, not wait until the environment changes — a pre-emptive system for mornings, not a reactive willpower fight. See [[lust-control-system]] for the step-by-step system.
 
 ## Own Your Identity Unabashedly (point 16)
 Example: said "I don't eat samosa due to IBS." Better framing: "I'm fitness-conscious." Don't justify your choices by referencing weakness — anchor them to identity. Trying to fit in by softening your identity will cause failure. Be unabashed.

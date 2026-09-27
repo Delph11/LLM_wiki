@@ -8,7 +8,7 @@ source-file: raw/Thoughts.md, raw/Thoughts 2.md
 # Networking and Social Habits
 
 The small consistent behaviours that build and maintain relationships — and the failure modes to watch.
-Source: raw/Thoughts.md (pts 10, 20, 29, 32, 33, 35, 38, 43, 44, 54, 56, 66, 68) · raw/Thoughts 2.md (pt 34)
+Source: raw/Thoughts.md (pts 10, 20, 25, 29, 32, 33, 35, 38, 43, 44, 54, 56, 66, 68) · raw/Thoughts 2.md (pt 34)
 
 ---
 

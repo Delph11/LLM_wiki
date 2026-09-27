@@ -25,7 +25,7 @@ See [[physical-health-habits]] for the full posture, eye-strain, and desk-break 
 Said yes to a friend outing on impulse. Couldn't say no to boss for extra work. Need to balance friendship, networking, and work without defaulting to yes reflexively. See [[identity-and-impulse-control]] for the broader impulse control theme.
 
 ## Morning Lust and Net Surfing (point 18)
-Triggered by solitude — brain reads "alone = no risk of getting caught." Need a pre-emptive system for mornings, not a reactive willpower fight. See [[identity-and-impulse-control]].
+See [[identity-and-impulse-control]] (Morning Impulse Control) for the full note — the solitude trigger and the need for a pre-emptive morning system.
 
 ## Data Science Learning Pace (point 25)
 One week in — feeling like I'm copying the instructor rather than creating. Pace feels slow but I'm prioritising understanding over speed. This is actually correct early-stage behaviour; the creative ownership will come. Watch this over the next few weeks.
