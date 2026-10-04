@@ -1,5 +1,5 @@
 ---
-namespace: personal
+namespace: career
 type: [insight, observation]
 date-created: 2026-04-19
 source-file: raw/Thoughts.md, raw/Thoughts 2.md

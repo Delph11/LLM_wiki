@@ -40,4 +40,4 @@ Stop floating. Fix one goal: get into Google as an SDE within the next 5 years. 
 Four things to make progress on in parallel: (1) effort and analytics, (2) overcoming addiction, (3) character — especially confidence and communication, (4) problem solving (case studies). These are the levers. Each maps to pages in this wiki.
 
 ---
-*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[sequencing-and-systems]] · [[confidence-and-body-language]]*
+*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[sequencing-and-systems]] · [[confidence-and-body-language]] · [[trip-insights]]*

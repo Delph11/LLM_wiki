@@ -1,5 +1,5 @@
 # LLM Wiki Index
-*Last updated: 2026-09-27*
+*Last updated: 2026-10-04*
 
 ## Academia
 
@@ -10,6 +10,7 @@
 ## Career
 - [non-linear-career-pivot-dentist-to-apple](../career/non-linear-career-pivot-dentist-to-apple.md) — How a dentist pivoted to Apple; lessons on non-linear career paths
 - [trust-and-flexibility-in-management](../career/trust-and-flexibility-in-management.md) — How trust and flexibility shape effective management
+- [work-and-career](../career/work-and-career.md) — Reflections on work, job strategy, visibility, and career direction
 
 ## Creative
 
@@ -24,7 +25,6 @@
 - [master-regulators](../personal/master-regulators.md) — Core principles that regulate behaviour and decisions
 - [friendship-and-internship-boundaries](../personal/friendship-and-internship-boundaries.md) — Avoiding role confusion between friendship and professional work
 - [trip-insights](../personal/trip-insights.md) — Reflections and lessons from travel
-- [work-and-career](../personal/work-and-career.md) — Personal reflections on work and career direction
 - [sequencing-and-systems](../personal/sequencing-and-systems.md) — How to sequence goals and build systems
 
 ## Health

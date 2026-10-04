@@ -35,4 +35,4 @@ If you control the net, the full force gets redirected elsewhere — and it will
 
 ---
 
-*Connected pages: [[identity-and-impulse-control]] · [[learning-and-work-habits]]*
+*Connected pages: [[identity-and-impulse-control]] · [[learning-and-work-habits]] · [[master-regulators]]*

@@ -8,7 +8,7 @@ source-file: raw/Thoughts.md, raw/Thoughts 2.md
 # Identity and Impulse Control
 
 Who I am building myself to be — and the impulses that work against it.
-Source: raw/Thoughts 2.md (pts 5, 11, 16, 17, 19, 27, 28, 30, 31) · raw/Thoughts.md (pts 1, 5, 6, 13, 17, 18, 21, 26, 30, 31, 39, 40, 45, 47, 49, 50, 53, 55, 59, 64, 65, 67)
+Source: raw/Thoughts 2.md (pts 5, 11, 16, 17, 18, 19, 27, 28, 30, 31) · raw/Thoughts.md (pts 1, 5, 6, 13, 17, 18, 21, 26, 30, 31, 39, 40, 45, 47, 49, 50, 53, 55, 59, 64, 65, 67)
 
 ---
 

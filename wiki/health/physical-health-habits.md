@@ -25,7 +25,7 @@ Sit straight so the neck doesn't lean forward — forward-neck lean leads to chr
 When eye strain builds and a headache is forming, looking down (lowering the screen) helps ease the pressure. Adjust screen height before the headache peaks, not after.
 
 **The 20:20:20 extended rule:**
-The standard eye rule (every 20 minutes, look at something 20 feet away for 20 seconds) should be extended to the whole body: every 20 minutes, check posture, unfollow legs, roll shoulders.
+The standard eye rule (every 20 minutes, look at something 20 feet away for 20 seconds) should be extended to the whole body: every 20 minutes, check posture, unfold legs, roll shoulders.
 
 ---
 
