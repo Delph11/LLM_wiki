@@ -8,7 +8,7 @@ source-file: raw/Thoughts.md, raw/Thoughts 2.md
 # Work and Career Reflections
 
 Thinking about work, identity, career strategy, and what actually matters long-term.
-Source: raw/Thoughts 2.md (pts 6, 12, 13, 22, 23, 24, 25, 26) · raw/Thoughts.md (pts 8, 14, 57, 60)
+Source: raw/Thoughts 2.md (pts 6, 12, 13, 22, 23, 24, 25, 26, 47) · raw/Thoughts.md (pts 8, 14, 57, 60)
 
 ---
 
@@ -30,7 +30,7 @@ Insight: the knowledge I'm gaining at 23/24 — if I'd had it at 13/14, I'd have
 ## Systems Over Motivation (point 24)
 Office resentment, goal misalignment, lack of motivation — all of these shrink when reduced to a system. Motivation is unreliable. Design the day so the right behaviour is the default, not the heroic choice. See [[sequencing-and-systems]].
 
-## Personality Audit (point 26)
+## Personality Audit (point 47)
 Identified problems from recent social situations: tongue-tied, shyness, no confidence, not able to say no, tension and anger under stress. These are addressable. Each one needs a specific practice, not just awareness. See [[identity-and-impulse-control]] for the identity layer of this.
 
 ---

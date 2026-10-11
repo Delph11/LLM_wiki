@@ -8,7 +8,7 @@ source-file: raw/Thoughts.md, raw/Thoughts 2.md
 # Learning and Work Habits
 
 Patterns in how I learn and work — what's helping, what needs fixing.
-Source: raw/Thoughts 2.md (pts 1, 2, 8, 9, 18, 25, 28, 29, 32) · raw/Thoughts.md (pts 3, 4, 9, 11, 15, 19, 36, 37, 41, 58, 62, 63, 70)
+Source: raw/Thoughts 2.md (pts 1, 2, 8, 9, 18, 28, 29, 32, 46) · raw/Thoughts.md (pts 3, 4, 7, 9, 15, 36, 37, 41, 58, 62, 63, 70)
 
 ---
 
@@ -27,7 +27,7 @@ Said yes to a friend outing on impulse. Couldn't say no to boss for extra work. 
 ## Morning Lust and Net Surfing (point 18)
 See [[identity-and-impulse-control]] (Morning Impulse Control) for the full note — the solitude trigger and the need for a pre-emptive morning system.
 
-## Data Science Learning Pace (point 25)
+## Data Science Learning Pace (point 46)
 One week in — feeling like I'm copying the instructor rather than creating. Pace feels slow but I'm prioritising understanding over speed. This is actually correct early-stage behaviour; the creative ownership will come. Watch this over the next few weeks.
 
 ---
@@ -42,10 +42,10 @@ See [[physical-health-habits]] for the full note — treating the symptom (medic
 ## Internet Addiction (Thoughts pt 4)
 Need to control internet addiction as a core habit. See the negotiation strategy in [[identity-and-impulse-control]] (pt 17) and the no-net-before-sleep rule (pt 18).
 
-## Dwarka Trip Proof (Thoughts pt 9)
+## Dwarka Trip Proof (Thoughts pt 7)
 See [[physical-health-habits]] for the full note — sustained eating discipline on the Dwarka trip, the proof to reference when the inner critic says "I can't control this."
 
-## Daily Diary Not Started (Thoughts pt 11)
+## Daily Diary Not Started (Thoughts pt 9)
 Haven't started the daily diary yet — keep leaving it out of laziness. This is a foundational habit that feeds everything else. The barrier is low; the resistance is avoidance. Start tonight, not when the "right moment" comes.
 
 ## Losing and Forgetting Things (Thoughts pts 15, 58)

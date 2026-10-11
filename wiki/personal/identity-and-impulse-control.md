@@ -8,7 +8,7 @@ source-file: raw/Thoughts.md, raw/Thoughts 2.md
 # Identity and Impulse Control
 
 Who I am building myself to be — and the impulses that work against it.
-Source: raw/Thoughts 2.md (pts 5, 11, 16, 17, 18, 19, 27, 28, 30, 31) · raw/Thoughts.md (pts 1, 5, 6, 13, 17, 18, 21, 26, 30, 31, 39, 40, 45, 47, 49, 50, 53, 55, 59, 64, 65, 67)
+Source: raw/Thoughts 2.md (pts 5, 11, 16, 17, 18, 19, 27, 30, 31, 48, 49) · raw/Thoughts.md (pts 1, 5, 6, 13, 17, 18, 21, 26, 30, 31, 39, 40, 45, 47, 49, 50, 53, 55, 59, 64, 65, 67)
 
 ---
 
@@ -27,10 +27,10 @@ Impulse control isn't just a behaviour goal — it needs to become an identity I
 ## Identity Contradiction — Advising Others vs. Yourself (point 19)
 I tell others to enjoy life, eat what they want. But I maintain a strict identity for myself around health. Question: will playing the permissive advisor role bleed into my own behaviour and erode my standards? Watch for this. Integrity between public advice and private behaviour matters.
 
-## Impulse to Overshare Deficiencies (point 27)
+## Impulse to Overshare Deficiencies (point 48)
 I share my limitations unprompted — e.g., mentioned I couldn't learn scooty when no one asked. This highlights weaknesses when silence would serve better. But the fix is not to become silent altogether — that creates a different confidence problem. The goal is to be honest when asked, not to volunteer what works against me.
 
-## Confidence Style (point 28)
+## Confidence Style (point 49)
 Open question: should I aim for Tanmay-style confidence — unabashed, steamrolling — or a quieter, more polished confidence? These are not the only two options. A third path: grounded and direct, neither loud nor shrinking. This needs more exploration. See [[work-and-career]] for the professional context.
 
 ---
