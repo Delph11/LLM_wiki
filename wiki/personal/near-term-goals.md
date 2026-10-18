@@ -19,7 +19,7 @@ I need a structure to track project timelines. Currently no system in place. See
 Stop waiting for Sid, Sneha, and others to come to me. Go to them proactively. This applies to networking and relationship-building at work. See [[work-and-career]].
 
 ## Build LLM Wiki Fast (point 7)
-Get the wiki up and running so thoughts stop living scattered across notes. This file is evidence that's happening. Ongoing.
+Get the wiki up and running so thoughts stop living scattered across notes. This file is evidence that's happening. Ongoing. See [[llm-wiki-usage-guide]] for how the system is run.
 
 ## Build Claude Agents — Presentation (point 10)
 Need Claude agents running and a presentation ready as soon as possible. This is time-sensitive. Track progress separately as it develops.
@@ -40,4 +40,4 @@ Stop floating. Fix one goal: get into Google as an SDE within the next 5 years. 
 Four things to make progress on in parallel: (1) effort and analytics, (2) overcoming addiction, (3) character — especially confidence and communication, (4) problem solving (case studies). These are the levers. Each maps to pages in this wiki.
 
 ---
-*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[sequencing-and-systems]] · [[confidence-and-body-language]] · [[trip-insights]]*
+*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[sequencing-and-systems]] · [[confidence-and-body-language]] · [[trip-insights]] · [[friendship-and-internship-boundaries]] · [[non-linear-career-pivot-dentist-to-apple]] · [[llm-wiki-usage-guide]]*

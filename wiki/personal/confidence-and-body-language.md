@@ -45,4 +45,4 @@ How to create the internal identity of a confident, non-clumsy person — not a 
 
 ---
 
-*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[master-regulators]] · [[networking-and-social-habits]] · [[trip-insights]]*
+*Connected pages: [[identity-and-impulse-control]] · [[work-and-career]] · [[master-regulators]] · [[networking-and-social-habits]] · [[trip-insights]] · [[near-term-goals]]*

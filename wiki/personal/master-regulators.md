@@ -61,4 +61,4 @@ Both are identity-level commitments, not rules. Rules require willpower to enfor
 
 ---
 
-*Connected pages: [[identity-and-impulse-control]] · [[lust-control-system]] · [[confidence-and-body-language]] · [[learning-and-work-habits]] · [[physical-health-habits]]*
+*Connected pages: [[identity-and-impulse-control]] · [[lust-control-system]] · [[confidence-and-body-language]] · [[learning-and-work-habits]] · [[physical-health-habits]] · [[sequencing-and-systems]]*

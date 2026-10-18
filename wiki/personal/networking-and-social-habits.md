@@ -50,4 +50,4 @@ The single most practical networking insight so far: sit near the boss's office 
 
 ---
 
-*Connected pages: [[identity-and-impulse-control]] · [[confidence-and-body-language]] · [[work-and-career]] · [[sequencing-and-systems]]*
+*Connected pages: [[identity-and-impulse-control]] · [[confidence-and-body-language]] · [[work-and-career]] · [[sequencing-and-systems]] · [[trust-and-flexibility-in-management]]*

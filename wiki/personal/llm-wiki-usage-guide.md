@@ -106,3 +106,7 @@ This also solves the usage limit concern — one batch at night is far more effi
 - Before bed — run the Evening Update Routine
 - Once a month — run the Lint Routine
 - Whenever you need insight — open Claude Code and ask a question
+
+---
+
+*Connected pages: [[near-term-goals]]*

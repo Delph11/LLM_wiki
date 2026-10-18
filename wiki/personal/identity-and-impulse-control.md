@@ -115,4 +115,4 @@ When Arpita said the environment felt different this time, I panicked about the 
 Don't criticise Bengalis, Kolkata, or any regional group — even casually, even agreeing with someone else who is. Others will use it to target you in future conversations. This extends the "don't criticise anyone" rule (Thoughts pt 31) to regional identity specifically.
 
 ---
-*Connected pages: [[master-regulators]] · [[lust-control-system]] · [[learning-and-work-habits]] · [[confidence-and-body-language]] · [[networking-and-social-habits]] · [[work-and-career]] · [[friendship-and-internship-boundaries]] · [[sequencing-and-systems]] · [[physical-health-habits]]*
+*Connected pages: [[master-regulators]] · [[lust-control-system]] · [[learning-and-work-habits]] · [[confidence-and-body-language]] · [[networking-and-social-habits]] · [[work-and-career]] · [[friendship-and-internship-boundaries]] · [[sequencing-and-systems]] · [[physical-health-habits]] · [[near-term-goals]] · [[trip-insights]]*

@@ -2,12 +2,13 @@
 namespace: health
 type: [insight, observation, task]
 date-created: 2026-06-21
-source-file: raw/Posture.md, raw/Thoughts.md, raw/Thoughts 2.md
+source-file: raw/Posture.md, raw/Trip Insights.md, raw/Thoughts.md, raw/Thoughts 2.md
 ---
 
 # Physical Health Habits
 
 Practical rules for maintaining physical health while at a desk and throughout the day.
+Source: raw/Posture.md · raw/Trip Insights.md (pt 4) · raw/Thoughts.md (pts 3, 7, 62, 63) · raw/Thoughts 2.md (pt 8)
 
 ---
 

@@ -46,4 +46,4 @@ A clear sequence is emerging: impulse control first (already started) → confid
 When the SDE prep phase begins (likely 1 year from now), more time will be needed for it — some current self-improvement tracks will have to pause or slow down. This is fine: by that point many of these habits will be automatic, not effortful. Plan for the trade-off rather than being surprised by it. See [[near-term-goals]] for the Google SDE goal and timeline.
 
 ---
-*Connected pages: [[near-term-goals]] · [[work-and-career]] · [[identity-and-impulse-control]] · [[master-regulators]] · [[networking-and-social-habits]] · [[trip-insights]]*
+*Connected pages: [[near-term-goals]] · [[work-and-career]] · [[identity-and-impulse-control]] · [[master-regulators]] · [[networking-and-social-habits]] · [[trip-insights]] · [[friendship-and-internship-boundaries]] · [[learning-and-work-habits]] · [[non-linear-career-pivot-dentist-to-apple]]*
