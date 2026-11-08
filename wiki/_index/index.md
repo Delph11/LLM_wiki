@@ -1,5 +1,5 @@
 # LLM Wiki Index
-*Last updated: 2026-11-01*
+*Last updated: 2026-11-08*
 
 ## Academia
 
